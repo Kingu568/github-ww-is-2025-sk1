@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "c:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "c:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\wolfi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wolfi\\AppData\\Roaming\\NuGet\\NuGet.Config"
