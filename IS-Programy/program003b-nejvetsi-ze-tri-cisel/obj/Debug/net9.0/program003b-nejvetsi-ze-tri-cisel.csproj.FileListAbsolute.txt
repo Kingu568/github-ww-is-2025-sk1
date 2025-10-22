@@ -1,0 +1,15 @@
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.exe
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.deps.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.runtimeconfig.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\bin\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.AssemblyInfoInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.AssemblyInfo.cs
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.csproj.CoreCompileInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.sourcelink.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\refint\program003b-nejvetsi-ze-tri-cisel.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\program003b-nejvetsi-ze-tri-cisel.genruntimeconfig.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program003b-nejvetsi-ze-tri-cisel\obj\Debug\net9.0\ref\program003b-nejvetsi-ze-tri-cisel.dll
