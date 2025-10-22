@@ -3,9 +3,9 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("****************************");
-    Console.WriteLine("***** Název programu *****");
+    Console.WriteLine("******** Obdelnik **********");
     Console.WriteLine("****************************");
-    Console.WriteLine("******* Walter ********");
+    Console.WriteLine("******* Walter Wolf ********");
     Console.WriteLine("****************************");
     Console.WriteLine();
 
@@ -14,13 +14,26 @@ while (again == "a")
     //int first = int.Parse(Console.ReadLine());
 
     //Vstup hodnoty do programu - řešený správně
-    Console.Write("Zadejte hodnotu (celé číslo): ");
-    int first;
-
-    while (!int.TryParse(Console.ReadLine(), out first))
+    
+    Console.Write("Lenght: ");
+    int lenght;
+    while (!int.TryParse(Console.ReadLine(), out lenght))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
     }
+    Console.Write("Width: ");
+    int width;
+    while (!int.TryParse(Console.ReadLine(), out width))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
+    }
+
+    for (int i = 0; i < lenght; i++)
+    {
+        for (int j = 0; j < width; j++) Console.Write("* ");
+        Console.WriteLine();
+    }
+
 
 
     Console.WriteLine();

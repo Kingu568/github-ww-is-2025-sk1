@@ -1,0 +1,15 @@
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.exe
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.deps.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.runtimeconfig.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\bin\Debug\net9.0\program004b-pravouhly-trojuhelnik.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.AssemblyInfoInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.AssemblyInfo.cs
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.csproj.CoreCompileInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.sourcelink.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\refint\program004b-pravouhly-trojuhelnik.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\program004b-pravouhly-trojuhelnik.genruntimeconfig.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program004b-pravouhly-trojuhelnik\obj\Debug\net9.0\ref\program004b-pravouhly-trojuhelnik.dll
