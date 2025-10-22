@@ -1,4 +1,6 @@
-﻿string again = "a";
+﻿using System.Formats.Asn1;
+
+string again = "a";
 while (again == "a")
 {
     Console.Clear();
@@ -32,8 +34,8 @@ while (again == "a")
     {
         Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
     }
-
-    if (a > b)
+    if (a == b & b == c) Console.WriteLine("Všechny proměnné jsou stejné a, b, c = " + a);
+    else if (a > b)
     {
         if (a > c) Console.WriteLine("Největší je a = " + a);
     }
