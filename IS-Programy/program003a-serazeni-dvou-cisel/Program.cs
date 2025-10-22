@@ -3,7 +3,7 @@ while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("****************************");
-    Console.WriteLine("***** Název programu *****");
+    Console.WriteLine("***** Seřazení dvou čísel *****");
     Console.WriteLine("****************************");
     Console.WriteLine("******* Walter Wolf ********");
     Console.WriteLine("****************************");
@@ -15,12 +15,27 @@ while (again == "a")
 
     //Vstup hodnoty do programu - řešený správně
     Console.Write("Zadejte hodnotu (celé číslo): ");
-    int first;
-
-    while (!int.TryParse(Console.ReadLine(), out first))
+    int a;
+    while (!int.TryParse(Console.ReadLine(), out a))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
     }
+    Console.Write("Zadejte druhou hodnotu (celé číslo): ");
+    int b;
+    while (!int.TryParse(Console.ReadLine(), out b))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
+    }
+
+    if (a > b)
+    {
+        int temp = a;
+        a = b;
+        b = temp;
+    }
+    Console.WriteLine("a = " + a);
+    Console.WriteLine("b = " + b);
+
 
 
     Console.WriteLine();
