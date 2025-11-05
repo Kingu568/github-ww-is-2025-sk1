@@ -30,9 +30,9 @@ while (again == "a")
     }
     Console.Write("Zadejte horní mez (celé číslo): ");
     int max;
-    while (!int.TryParse(Console.ReadLine(), out max))
+    while (!int.TryParse(Console.ReadLine(), out max) || max <= min)
     {
-        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
+        Console.Write("Nezadali jste celé číslo nebo je číslo menší/rovná se spodní mezi. Zadejte hodnotu znovu: ");
     }
     
     Random rand = new Random();
@@ -42,7 +42,11 @@ while (again == "a")
         randoms[i] = rand.Next(min, max + 1);
     }
 
-    Console.WriteLine(string.Join(", ", randoms));
+    for (int j = 0; j < randoms.Length-1; j++)
+    {
+        Console.Write(randoms[j] + ", ");
+    }
+    Console.Write(randoms.Last());
 
 
     Console.WriteLine();
