@@ -1,0 +1,15 @@
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\bin\Debug\net9.0\program005-generator.exe
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\bin\Debug\net9.0\program005-generator.deps.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\bin\Debug\net9.0\program005-generator.runtimeconfig.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\bin\Debug\net9.0\program005-generator.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\bin\Debug\net9.0\program005-generator.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.AssemblyInfoInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.AssemblyInfo.cs
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.csproj.CoreCompileInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.sourcelink.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\refint\program005-generator.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\program005-generator.genruntimeconfig.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program005-generator\obj\Debug\net9.0\ref\program005-generator.dll

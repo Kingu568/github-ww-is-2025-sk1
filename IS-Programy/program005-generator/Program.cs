@@ -1,4 +1,6 @@
-﻿string again = "a";
+﻿using System.Globalization;
+
+string again = "a";
 while (again == "a")
 {
     Console.Clear();
@@ -14,12 +16,32 @@ while (again == "a")
     //int first = int.Parse(Console.ReadLine());
 
     //Vstup hodnoty do programu - řešený správně
-    Console.Write("Zadejte hodnotu (celé číslo): ");
-    int first;
-    while (!int.TryParse(Console.ReadLine(), out first))
+    Console.Write("Zadejte počet čísel (celé číslo): ");
+    int range;
+    while (!int.TryParse(Console.ReadLine(), out range))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
     }
+    Console.Write("Zadejte horní mez (celé číslo): ");
+    int max;
+    while (!int.TryParse(Console.ReadLine(), out max))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
+    }
+    Console.Write("Zadejte spodní mez (celé číslo): ");
+    int min;
+    while (!int.TryParse(Console.ReadLine(), out min))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
+    }
+    Random rand = new Random();
+    int[] randoms = new int[range];
+    for (int i = 0; i < range; i++)
+    {
+        randoms[i] = rand.Next(min, max + 1);
+    }
+
+    Console.WriteLine(string.Join(", ", randoms));
 
 
     Console.WriteLine();
