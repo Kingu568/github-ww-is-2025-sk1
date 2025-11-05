@@ -22,18 +22,19 @@ while (again == "a")
     {
         Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
     }
-    Console.Write("Zadejte horní mez (celé číslo): ");
-    int max;
-    while (!int.TryParse(Console.ReadLine(), out max))
-    {
-        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
-    }
     Console.Write("Zadejte spodní mez (celé číslo): ");
     int min;
     while (!int.TryParse(Console.ReadLine(), out min))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
     }
+    Console.Write("Zadejte horní mez (celé číslo): ");
+    int max;
+    while (!int.TryParse(Console.ReadLine(), out max))
+    {
+        Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
+    }
+    
     Random rand = new Random();
     int[] randoms = new int[range];
     for (int i = 0; i < range; i++)
