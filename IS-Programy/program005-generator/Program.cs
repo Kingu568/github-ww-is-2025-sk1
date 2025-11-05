@@ -70,6 +70,13 @@ while (again == "a")
         Console.Write(randoms[j] + ", ");
     }
     Console.Write(randoms.Last());
+    Console.WriteLine();
+    Console.WriteLine("Kladných čísel bylo: " + pos);
+    Console.WriteLine("Záporných čísel bylo: " + neg);
+    Console.WriteLine("Nul bylo: " + zeros);
+    Console.WriteLine();
+    Console.WriteLine("Sudých čísel bylo: " + even);
+    Console.WriteLine("Lichých čísel bylo: " + odd);
 
 
     Console.WriteLine();
