@@ -34,12 +34,35 @@ while (again == "a")
     {
         Console.Write("Nezadali jste celé číslo nebo je číslo menší/rovná se spodní mezi. Zadejte hodnotu znovu: ");
     }
-    
+
+    int pos = 0;
+    int neg = 0;
+    int zeros = 0;
+
+    int even = 0;
+    int odd = 0;
+
     Random rand = new Random();
     int[] randoms = new int[range];
     for (int i = 0; i < range; i++)
     {
         randoms[i] = rand.Next(min, max + 1);
+        switch (randoms[i])
+        {
+            case > 0:
+                pos++;
+                break;
+            case < 0:
+                neg++;
+                break;
+            case 0:
+                zeros++;
+                break;
+        }
+        if ((randoms[i] % 2) == 1) odd++;
+        else even++;
+        
+
     }
 
     for (int j = 0; j < randoms.Length-1; j++)
