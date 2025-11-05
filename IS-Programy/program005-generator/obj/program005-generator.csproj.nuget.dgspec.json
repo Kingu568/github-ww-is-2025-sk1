@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\IS-Programy\\program005-generator\\program005-generator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\IS-Programy\\program005-generator\\program005-generator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
-        "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\IS-Programy\\program005-generator\\program005-generator.csproj",
+        "projectName": "program005-generator",
+        "projectPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\IS-Programy\\program005-generator\\program005-generator.csproj",
         "packagesPath": "C:\\Users\\wolfi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\obj\\",
+        "outputPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\IS-Programy\\program005-generator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wolfi\\AppData\\Roaming\\NuGet\\NuGet.Config"

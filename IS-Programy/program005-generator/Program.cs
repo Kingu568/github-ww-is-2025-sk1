@@ -2,11 +2,11 @@
 while (again == "a")
 {
     Console.Clear();
-    Console.WriteLine("****************************");
-    Console.WriteLine("***** Název programu *****");
-    Console.WriteLine("****************************");
-    Console.WriteLine("******* Walter Wolf ********");
-    Console.WriteLine("****************************");
+    Console.WriteLine("********************************");
+    Console.WriteLine("Generátor pseudo-náhodných čísel");
+    Console.WriteLine("********************************");
+    Console.WriteLine("********* Walter Wolf **********");
+    Console.WriteLine("********************************");
     Console.WriteLine();
 
     // Vstup hodnoty do programu - špatně řešený
@@ -16,7 +16,6 @@ while (again == "a")
     //Vstup hodnoty do programu - řešený správně
     Console.Write("Zadejte hodnotu (celé číslo): ");
     int first;
-
     while (!int.TryParse(Console.ReadLine(), out first))
     {
         Console.Write("Nezadali jste celé číslo. Zadejte hodnotu znovu: ");
