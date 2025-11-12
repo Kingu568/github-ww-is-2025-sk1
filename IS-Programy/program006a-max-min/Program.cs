@@ -79,7 +79,7 @@ while (again == "a")
     {
         if (randoms[i] == randoms.Max()) indexes.Add(i);
     }
-    Console.WriteLine("Kterých/á je "+ indexes.Count() +" a jsou/je na indexech: ");
+    Console.WriteLine("Kterých/á je "+ indexes.Count() +" a jsou/je na indexech/u: ");
     for (int i = 0; i < indexes.Count()- 1; i++)
     {
         Console.Write(indexes[i] + ", ");
@@ -93,7 +93,7 @@ while (again == "a")
     {
         if (randoms[i] == randoms.Min()) indexes.Add(i);
     }
-    Console.WriteLine("Kterých/á je "+ indexes.Count() +" a jsou/je na indexech: ");
+    Console.WriteLine("Kterých/á je "+ indexes.Count() +" a jsou/je na indexech/u: ");
     for (int i = 0; i < indexes.Count()- 1; i++)
     {
         Console.Write(indexes[i] + ", ");
