@@ -1,4 +1,5 @@
-﻿string again = "a";
+﻿//dotnet new console -o program001-vypis-rady
+string again = "a";
 while (again == "a")
 {
     Console.Clear();
