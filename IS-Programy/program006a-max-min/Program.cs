@@ -43,6 +43,19 @@ while (again == "a")
     int odd = 0;
 
     List<int> indexes = new List<int>();
+    List<ConsoleColor> colors = new List<ConsoleColor>()
+        {
+            ConsoleColor.Red,
+            ConsoleColor.Green,
+            ConsoleColor.Blue,
+            ConsoleColor.Yellow,
+            ConsoleColor.Cyan,
+            ConsoleColor.Magenta,
+            ConsoleColor.White,
+            ConsoleColor.Gray,
+            ConsoleColor.DarkRed,
+            ConsoleColor.DarkCyan
+        };
 
     Random rand = new Random();
     int[] randoms = new int[range];
@@ -115,8 +128,8 @@ while (again == "a")
     {
         for (int s = 0; s < i; s++)
             Console.Write(" "); 
-
         for (int h = 0; h < randoms.Max() - 2 * i; h++)
+            Console.ForegroundColor = colors[rand.Next(0, colors.Count)];
             Console.Write("*"); 
 
         Console.WriteLine();
@@ -126,9 +139,11 @@ while (again == "a")
     for (int i = randoms.Max() / 2 - 1; i >= 0; i--)
     {
         for (int s = 0; s < i; s++)
+
             Console.Write(" ");
 
         for (int h = 0; h < randoms.Max() - 2 * i; h++)
+            Console.ForegroundColor = colors[rand.Next(0, colors.Count)];
             Console.Write("*");
 
         Console.WriteLine();
