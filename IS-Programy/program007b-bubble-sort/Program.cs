@@ -1,4 +1,5 @@
 ﻿using System.Globalization;
+using System.Linq.Expressions;
 
 string again = "a";
 while (again == "a")
@@ -99,7 +100,13 @@ while (again == "a")
     }
     Console.Write(randoms.Last());
     Console.WriteLine();
-    second = randoms[1];
+    second = randoms[0];
+    int x = 1;
+    while (second == randoms[0])
+    {
+        second = randoms[x];
+        x++;
+    }
     Console.WriteLine("Druhé největší číslo je " + second);
     
 
