@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.Design;
+using System.Diagnostics;
 using System.Globalization;
 
 string again = "a";
@@ -78,7 +79,8 @@ while (again == "a")
     Console.WriteLine();
     Console.WriteLine("Sudých čísel bylo: " + even);
     Console.WriteLine("Lichých čísel bylo: " + odd);
-
+    Stopwatch sw = new Stopwatch();
+    sw.Start();
     for (int i = 0; i < randoms.Length - 1; i++)
     {
         for (int j = 0; j < randoms.Length - 1 - i; j++)
@@ -89,10 +91,12 @@ while (again == "a")
                 randoms[j] = randoms[j + 1];
                 randoms[j + 1] = temp;
                 changes++;
-                
+
             }
         }
     }
+    sw.Stop();
+    
     Console.WriteLine("Seřazený list pseudonáhodných čísel pomocí bubble sort :");
     for(int j = 0; j < randoms.Length-1; j++)
     {
@@ -101,7 +105,7 @@ while (again == "a")
     Console.Write(randoms.Last());
     Console.WriteLine();
     Console.WriteLine("Počet provedených výměn: " + changes);
-    
+    Console.WriteLine("Čas potřebný k řazení : " + sw.Elapsed);
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
