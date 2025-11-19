@@ -1,0 +1,15 @@
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.AssemblyInfoInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.AssemblyInfo.cs
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.sourcelink.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\bin\Debug\net9.0\program007a-bubble-sort.exe
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\bin\Debug\net9.0\program007a-bubble-sort.deps.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\bin\Debug\net9.0\program007a-bubble-sort.runtimeconfig.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\bin\Debug\net9.0\program007a-bubble-sort.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\bin\Debug\net9.0\program007a-bubble-sort.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\refint\program007a-bubble-sort.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\program007a-bubble-sort.genruntimeconfig.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program007a-bubble-sort\obj\Debug\net9.0\ref\program007a-bubble-sort.dll

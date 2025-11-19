@@ -5,7 +5,7 @@
     {
         Console.Clear();
         Console.WriteLine("********************************");
-        Console.WriteLine("Generátor pseudo-náhodných čísel");
+        Console.WriteLine("********* Bubble Sort *********");
         Console.WriteLine("********************************");
         Console.WriteLine("********* Walter Wolf **********");
         Console.WriteLine("********************************");
@@ -78,7 +78,26 @@
         Console.WriteLine("Sudých čísel bylo: " + even);
         Console.WriteLine("Lichých čísel bylo: " + odd);
 
-
+        for (int i = 0; i < randoms.Length - 1; i++)
+        {
+            for (int j = 0; j < randoms.Length - 1 - i; j++)
+            {
+                if (randoms[j] < randoms[j + 1])
+                {
+                    int temp = randoms[j];
+                    randoms[j] = randoms[j + 1];
+                    randoms[j + 1] = temp;
+                }
+            }
+        }
+        Console.WriteLine("Seřazený list pseudonáhodných čísel pomocí bubble sort :");
+        for(int j = 0; j < randoms.Length-1; j++)
+        {
+            Console.Write(randoms[j] + ", ");
+        }
+        Console.Write(randoms.Last());
+        Console.WriteLine();
+        
         Console.WriteLine();
         Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
         again = Console.ReadLine();

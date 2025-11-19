@@ -5,7 +5,7 @@
     {
         Console.Clear();
         Console.WriteLine("********************************");
-        Console.WriteLine("Generátor pseudo-náhodných čísel");
+        Console.WriteLine("******** Bubble Sort 2 *********");
         Console.WriteLine("********************************");
         Console.WriteLine("********* Walter Wolf **********");
         Console.WriteLine("********************************");
@@ -77,6 +77,63 @@
         Console.WriteLine();
         Console.WriteLine("Sudých čísel bylo: " + even);
         Console.WriteLine("Lichých čísel bylo: " + odd);
+
+        for (int i = 0; i < randoms.Length - 1; i++)
+        {
+            for (int j = 0; j < randoms.Length - 1 - i; j++)
+            {
+                if (randoms[j] < randoms[j + 1])
+                {
+                    int temp = randoms[j];
+                    randoms[j] = randoms[j + 1];
+                    randoms[j + 1] = temp;
+                }
+            }
+        }
+        Console.WriteLine("Seřazený list pseudonáhodných čísel pomocí bubble sort :");
+        for(int j = 0; j < randoms.Length-1; j++)
+        {
+            Console.Write(randoms[j] + ", ");
+        }
+        Console.Write(randoms.Last());
+        Console.WriteLine();
+        int second = randoms[1];
+        Console.WriteLine("Druhé největší číslo je " + second);
+        
+
+        if (second < 1)
+        {
+            Console.WriteLine();
+        }
+        else if (second == 1) Console.WriteLine("*");
+        else
+        {
+            
+
+            for (int i = 0; i < second; i++)
+                Console.Write("*");
+            Console.WriteLine();
+            for (int i = 0; i < second; i++)
+                Console.Write("*");
+            Console.WriteLine();
+
+            for (int i = 0; i < second - 4; i++)
+            {
+                Console.Write("*");              
+                for (int j = 0; j < second - 2; j++)
+                    Console.Write(" ");          
+                Console.Write("*");              
+                Console.WriteLine();
+            }
+
+            
+            for (int i = 0; i < second; i++)
+                Console.Write("*");
+            Console.WriteLine();
+            for (int i = 0; i < second; i++)
+                Console.Write("*");
+            Console.WriteLine();
+        }
 
 
         Console.WriteLine();
