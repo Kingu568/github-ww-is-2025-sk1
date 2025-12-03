@@ -1,0 +1,15 @@
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.AssemblyInfoInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.AssemblyInfo.cs
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.csproj.CoreCompileInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.sourcelink.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.exe
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.deps.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.runtimeconfig.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\bin\Debug\net9.0\program011a-vypocet-pi.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\refint\program011a-vypocet-pi.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\program011a-vypocet-pi.genruntimeconfig.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program011a-vypocet-pi\obj\Debug\net9.0\ref\program011a-vypocet-pi.dll

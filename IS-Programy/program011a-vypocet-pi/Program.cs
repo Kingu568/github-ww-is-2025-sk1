@@ -14,7 +14,7 @@ while (again == "a")
     //Console.Write("Zadejte první číslo řady: ");
     //int first = int.Parse(Console.ReadLine());
 
-    Console.Write("Zadejte přesnost (např. 0.0001): ");
+    Console.Write("Zadejte přesnost (např. 0,0001): ");
     double lenght;
 
     while (!double.TryParse(Console.ReadLine(), out lenght))
@@ -31,7 +31,7 @@ while (again == "a")
     {
         denominator = denominator + 2;
         positive = -positive;
-        quarterPi = quarterPi + znamenko * (1.0 / denominator);
+        quarterPi = quarterPi + positive * (1.0 / denominator);
     }
 
     double pi = 4.0 * quarterPi;
@@ -41,5 +41,4 @@ while (again == "a")
 
     Console.WriteLine("Pro opakování programu stiskněte klávesu a.");
     again = Console.ReadLine();
-
 }
