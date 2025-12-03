@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
-      "projectName": "program001-vypis-rady",
-      "projectPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
+      "projectUniqueName": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\IS-Programy\\program011a-vypocet-pi\\program011a-vypocet-pi.csproj",
+      "projectName": "program011a-vypocet-pi",
+      "projectPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\IS-Programy\\program011a-vypocet-pi\\program011a-vypocet-pi.csproj",
       "packagesPath": "C:\\Users\\wolfi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\obj\\",
+      "outputPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\IS-Programy\\program011a-vypocet-pi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wolfi\\AppData\\Roaming\\NuGet\\NuGet.Config"
