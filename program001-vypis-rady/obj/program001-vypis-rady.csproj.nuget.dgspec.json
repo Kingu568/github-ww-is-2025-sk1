@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {
+    "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
-        "packagesPath": "C:\\Users\\wolfi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wolfi\\Desktop\\pluh\\github-ww-is-2025-sk1\\program001-vypis-rady\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\program001-vypis-rady\\program001-vypis-rady.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\program001-vypis-rady\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\wolfi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -54,12 +61,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
