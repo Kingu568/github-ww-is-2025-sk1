@@ -1,0 +1,15 @@
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\bin\Debug\net9.0\program015a-hra.exe
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\bin\Debug\net9.0\program015a-hra.deps.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\bin\Debug\net9.0\program015a-hra.runtimeconfig.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\bin\Debug\net9.0\program015a-hra.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\bin\Debug\net9.0\program015a-hra.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\program015a-hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\program015a-hra.AssemblyInfoInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\program015a-hra.AssemblyInfo.cs
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\program015a-hra.csproj.CoreCompileInputs.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\program015a-hra.sourcelink.json
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\program015a-hra.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\refint\program015a-hra.dll
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\program015a-hra.pdb
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\program015a-hra.genruntimeconfig.cache
+C:\Users\wolfi\Desktop\pluh\github-ww-is-2025-sk1\IS-Programy\program015a-hra\obj\Debug\net9.0\ref\program015a-hra.dll
