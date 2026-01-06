@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\IS-Programy\\pripravanatest\\pripravanatest.csproj",
-      "projectName": "pripravanatest",
-      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\IS-Programy\\pripravanatest\\pripravanatest.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\IS-Programy\\pripravanatest\\pr01\\pr01.csproj",
+      "projectName": "pr01",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\IS-Programy\\pripravanatest\\pr01\\pr01.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\IS-Programy\\pripravanatest\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\github-ww-is-2025-sk1\\IS-Programy\\pripravanatest\\pr01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

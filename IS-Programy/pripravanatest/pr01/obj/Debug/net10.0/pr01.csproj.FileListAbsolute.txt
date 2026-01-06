@@ -1,0 +1,15 @@
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\bin\Debug\net10.0\pr01.exe
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\bin\Debug\net10.0\pr01.deps.json
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\bin\Debug\net10.0\pr01.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\bin\Debug\net10.0\pr01.dll
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\bin\Debug\net10.0\pr01.pdb
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\pr01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\pr01.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\pr01.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\pr01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\pr01.sourcelink.json
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\pr01.dll
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\refint\pr01.dll
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\pr01.pdb
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\pr01.genruntimeconfig.cache
+C:\Users\ASUS\Documents\GitHub\github-ww-is-2025-sk1\IS-Programy\pripravanatest\pr01\obj\Debug\net10.0\ref\pr01.dll
