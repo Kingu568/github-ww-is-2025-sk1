@@ -119,7 +119,12 @@ namespace TenProgram
 
             PrintItems(items);
             Console.Write("Index itemu k prodeji: ");
-            int index = int.Parse(Console.ReadLine());
+            int index;
+
+            while (!int.TryParse(Console.ReadLine(), out index) || index >= items.Count)
+            {
+                Console.Write("Nezadali jste celé číslo nebo číslo v rozsahu indexů. Zadejte hodnotu znovu: ");
+            }
 
             Item sold = items[index];
             decimal profit = sold.PriceForOne * sold.Quantity;
@@ -146,7 +151,12 @@ namespace TenProgram
 
             PrintItems(items);
             Console.Write("Index itemu k smazaní: ");
-            int index = int.Parse(Console.ReadLine());
+            int index;
+
+            while (!int.TryParse(Console.ReadLine(), out index) || index >= items.Count)
+            {
+                Console.Write("Nezadali jste celé číslo nebo číslo v rozsahu indexů. Zadejte hodnotu znovu: ");
+            }
 
             items.RemoveAt(index);
             Console.WriteLine($"Item smazán.");
@@ -208,7 +218,12 @@ namespace TenProgram
 
             PrintItems(items);
             Console.Write("Index itemu k úpravě: ");
-            int index = int.Parse(Console.ReadLine());
+            int index;
+
+            while (!int.TryParse(Console.ReadLine(), out index) || index >= items.Count)
+            {
+                Console.Write("Nezadali jste celé číslo nebo číslo v rozsahu indexů. Zadejte hodnotu znovu: ");
+            }
 
             Item item = items[index];
 

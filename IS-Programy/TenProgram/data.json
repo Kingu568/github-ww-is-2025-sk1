@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "Name": "k",
+    "PriceForOne": 5,
+    "Quantity": 5,
+    "IsHQ": true
+  }
+]
